@@ -83,9 +83,9 @@ body
 .top-cloud
 {
   position: absolute;
-  width: 150px;
-  right: 220px;
-  top: 50px;
+  width: 9.375rem;
+  right: 13.75rem;
+  top: 3.125rem;
 
 
 
@@ -93,9 +93,9 @@ body
 .bottom-cloud
 {
   position: absolute;
-  width: 150px;
-  left: 190px;
-  bottom: 350px;
+  width: 9.375rem;
+  left: 11.875rem;
+  bottom: 25.875rem;
 }
 .mountain
 {
@@ -209,5 +209,5 @@ hr
 
 {
   margin: auto;;
-  word-spacing: 67px;
+  word-spacing: 4.1875rem;
 }
