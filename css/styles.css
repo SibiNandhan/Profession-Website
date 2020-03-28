@@ -84,7 +84,7 @@ body
 {
   position: absolute;
   width: 9.375rem;
-  right: 13.75rem;
+  right: 3.75rem;
   top: 3.125rem;
 
 
@@ -93,8 +93,8 @@ body
 .bottom-cloud
 {
   position: absolute;
-  width: 9.375rem;
-  left: 11.875rem;
+  width: 11.375rem;
+  left: 1.875rem;
   bottom: 25.875rem;
 }
 .mountain
